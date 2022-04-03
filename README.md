@@ -4,7 +4,7 @@ A linear regression model that predicts stock prices 30 days into the future.
 # Description
 Uses the quandl API to scrape stock price data (up until April 11, 2018) for use as training and test sets.
 A linear regression model is trained (using an 80, 20 training test split) on the resulting training and test sets.
-The results are visualized using matplotlib with the predicited stock prices plotted (blue) over the historic stock prices (green).
+The results are visualized using matplotlib with the predicited stock prices plotted (**blue**) over the historic stock prices (**green**).
 
 # Models
 ### Scraped Stock Adj. Close Data
